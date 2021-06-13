@@ -25,9 +25,9 @@
 
 | Name | Github | Blog | 
 |---|---|---|
-| 김동우 | [//이름](//주소) | [//Nickname](주소)  |
-| 이건우 | [//이름](//주소) | [//Nickname](주소)   |
-| 이장희 | [//이름](//주소) | [//Nickname](주소) |
+| 김동우 | [off-dngw](https://github.com/off-dngw) | [off-dngw](https://velog.io/@off-dngw)  |
+| 이건우 | [GW-ME](https://github.com/Geonwoo-Lee) | [Elie_mello](https://velog.io/@lee_geon_woo4336)   |
+| 이장희 | [Joycoding](https://github.com/leejanghe) | [Joycoding](https://joy-codeing-lee.tistory.com/) |
 
 
 
