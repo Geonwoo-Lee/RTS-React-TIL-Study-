@@ -1,7 +1,7 @@
 <img src="icon.png" align="right" />
 
 # React & TIL Study
-### **✏️💻React 스터디와 Today I Learned 를 기록하는곳 입니다 💻✏️**
+## **✏️💻React 스터디와 Today I Learned 를 기록하는곳 입니다 💻✏️**
 
 <br>
 
