@@ -5,12 +5,12 @@
 
 <br>
 
-## Why are we doing this study❓
+## 💁‍♂️ Why are we doing this study❓
 
  저희는 React 심화 공부와 각자 무엇을 공부했는지를 서로 공유하며 지식을 공유하는 스터디입니다
  React는 주차별 주제를 정해 클론코딩을 해보며 React를 익혀가고 TIL을 올려 서로 어떤공부를 하며 무엇을 배웠는지를 공유합니다.
 
-## Study rules
+## 〽️ Study rules
 - 1일 1제출을 기본으로 하며 하루 공부한 내용들을 공용 Github에 올려 공유합니다
 - 같이 공부하는 스터디 멤버들의 자료를 보며 서로 피드백을 해주어야 합니다
 - Programers에 올라와있는 1단계 수준의 알고리즘을 최대한 풀어봅니다
@@ -21,7 +21,7 @@
 
 
 
-### Study Members Imformation
+### 🌐 Study Members Imformation
 
 | Name | Github | Blog | 
 |---|---|---|
@@ -34,7 +34,7 @@
 <br>
 
 
- ### ➣ Study Schedule
+ ### 🗓 Study Schedule
 - 1 Week - 무비앱 클론코딩하기
 - 2 Week - 유튜브앱 클론코딩하기
 - 3 Week - 진행되는 스프린트를 바탕으로한 개별적인 프로젝트 만들기, 협동프로젝트 주제 선정 및 방향성 설정
@@ -74,11 +74,10 @@
 
 
 
-## **➣ To do List**
+## **➣ ✅ To do List**
 - 무비앱 클론코딩
 - 유튜브앱 클론코딩
 - 개별 프로젝트
-- 
 
 
 
